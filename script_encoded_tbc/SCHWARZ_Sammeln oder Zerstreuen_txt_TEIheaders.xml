@@ -46,7 +46,7 @@
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="too short"></size>
+                <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"></reprintCount>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
             </textDesc>
