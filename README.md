@@ -14,7 +14,7 @@ All texts included in this collection are in the public domain.
 
 If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source:
 
-    Swiss German Novel Collection (ELTeC-gsw), edited by: Giulia Grisot, Berenike Herrmann. Version v1.0.0, July 2021. In: European Literary Text Collection (ELTeC). COST Action Distant Reading for European Literary History.
+    Swiss German Novel Collection (ELTeC-gsw), edited by: Giulia Grisot, Berenike Herrmann. Version v2.0.0, March 2023. In: European Literary Text Collection (ELTeC). COST Action Distant Reading for European Literary History.
 
 # Release notes
 
