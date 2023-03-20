@@ -22,6 +22,7 @@ General information about ELTeC releases is available at https://github.com/COST
 
     v2.0.0, March 2023: This release includes 82 novels in level 0 encoding (46 manually encoded, 36 semi-automaticaly encoded)
     
-old release:    
+old release:
+    
     v1.0.0, July 2021: This release includes 38 novels in level 0 encoding.
 
