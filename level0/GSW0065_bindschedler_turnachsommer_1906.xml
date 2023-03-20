@@ -1,10 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0061" xml:lang="de">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0065" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Die Turnachkinder im Sommer: ELTeC Ausgabe</title>
-                <author ref="https://de.wikipedia.org/wiki/Ida_Bindschedler">Bindschedler, Ida (1854-1919)</author>
+                <author ref="viaf:15215754 wikidata:Q1656493">Bindschedler, Ida (1854-1919)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Nele Sophie Spielberg</name>
@@ -12,7 +14,7 @@
             </titleStmt>
             <extent>
                 <measure unit="pages">273</measure>
-                <measure unit="words">60471</measure> 
+                <measure unit="words">60471</measure>
             </extent>
             <publicationStmt>
                 <p><date>2021-08-19</date></p>
@@ -54,6 +56,7 @@
             </textDesc>
         </profileDesc>
         <revisionDesc>
+            <change when="2023-03-14">Ines and Giulia last edits</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -211,8 +214,8 @@
 <p>Papa lachte.</p>
 <p>»Na, es soll ja eigentlich gesund sein, im feuchten Gras herumzuspazieren!«</p>
 <p>Marianne und Lotti stiegen rasch wieder zu ihrem Fenster hinein und schlüpften unter die Decke. Sie schwatzten noch ein Weilchen; aber bald fielen ihnen die Augen zu, und sie schliefen fest und gut die ganze Nacht hindurch.</p></div>
-<pb n="20"/><div type="chapter"> 
-<head>Pfahlbauergeschichten.</head> 
+<pb n="20"/><div type="chapter">
+<head>Pfahlbauergeschichten.</head>
 <p><hi>D</hi> ie Familie Turnach war nun schon drei Wochen in der Seeweid, und wie Mama vorausgesagt hatte: neben dem Schönen und Lustigen war hin und wieder auch etwas Unangenehmes und Langweiliges gekommen. Einmal hatte Marianne zwei Nächte hindurch Zahnweh gehabt; Hans hatte wegen Husten und Halsweh ein paar Tage im Zimmer bleiben müssen. Lotti war gesund gewesen; aber ihr waren die Strickstunden, zu denen sie sich etwa an Regentagen mit Marianne hinsetzen musste, immer eine grosse Betrübnis. Auch war es schrecklich, wenn man Aufgaben hatte und draussen die Sonne durch die Bäume schien und die Wellen plätscherten. Marianne und Lotti bekamen noch nicht viel auf; aber Hans, der schon zehn Jahre alt war, hatte allerlei zu schreiben und zu lernen. Manchmal wollte so ein Gedicht gar nicht in den Kopf hinein. Immer musste Hans wieder von vorn anfangen:</p>
 <l>»Es ritt ein Herr, das war sein Recht;</l>
 <l>Zu Fusse hiess er gehn den Knecht -</l>
@@ -400,7 +403,7 @@
 <p>»Nicht? Ja, dann gehörst du also nicht dazu, und ich kann auch deinen Namen nicht daher schreiben.«</p>
 <p>Nun wurden über die kleine Gruft noch zwei Ziegel gelegt.<pb n="41"/> Ein Weilchen schauten die Kinder, ohne etwas zu sagen, hinunter und dachten an das Volk, das die Sachen ausgraben würde. Es war seltsam, daran zu denken. Endlich warfen sie Erde darauf, bis alles wieder aufgefüllt war. Marianne hob ein paar Unkrautbüschel mit der Erde aus, damit Hans sie über der Gruft einpflanze. So sah alles natürlich aus; niemand konnte ahnen, dass da drinnen etwas begraben liege.</p>
 <p>Sehr befriedigt von ihrer Tat liefen die Kinder zum Hause zurück. Werner folgte langsam nach, und in seinem kleinen Kopfe dachte er sich aus, dass er einmal ganz allein »Pfahlbauten« machen wolle. Und so geschah es, dass er an jenem Sonntagmorgen die Zipfel der Butterhörnchen im Garten unter den Fliederbüschen vergrub. Warum es allerdings gerade das schöne Sonntagsgebäck sein musste, das hat kein Mensch jemals begriffen, der kleine Mann selbst wahrscheinlich am allerwenigsten.«</p></div>
-<pb n="42"/><div type="chapter"> <head>Vom Rudern und Schwimmen.</head> 
+<pb n="42"/><div type="chapter"> <head>Vom Rudern und Schwimmen.</head>
 <p><hi>D</hi>as Schönste in der Seeweid war natürlich das kleine Schiff, das in der Bucht an der Gartenmauer lag. Jeden Tag wurde mindestens eine Fahrt unternommen. Marianne und Lotti hatten allerdings recht gehabt: Hans konnte noch nicht so gut rudern wie Papa; immerhin wusste er schon ordentlich mit dem Schiff umzugehen, so dass Papa gleich am Anfang erklärt hatte, Hans dürfe dieses Jahr allein hinausfahren.</p>
 <p>»Und wir mit, Papa!« hatten Marianne und Lotti gebeten.</p>
 <p>»Ja, ihr mit. Es muss nur alles vernünftig geschehen.«</p>
@@ -541,7 +544,7 @@
 <p>Als sie aber ein Dutzend Schritte gegangen waren, drehte sich das kecke, kleine Lotti noch einmal um und rief: »Die Haselnüsse waren sehr gut! Ich hatte gar keine taube und Hans auch nicht und Marianne bloss eine einzige!«</p>
 <p>Da lachte der Mann ein wenig. Alle drei Kinder hatten deutlich gesehen, dass er gelacht hatte.</p>
 <p>Er hiess nun bei den Turnachkindern der Haselnussmann, und jedesmal, wenn sie ihn bei der Scheune sahen, nickten die Mädchen, und Hans zog höflich seinen Hut ab.</p></div>
-<pb n="65"/><div type="chapter"><head>Hans macht eine neue Bekanntschaft und sammelt alte Schuhe.</head> 
+<pb n="65"/><div type="chapter"><head>Hans macht eine neue Bekanntschaft und sammelt alte Schuhe.</head>
 <p><hi>B</hi>ald darauf erlebte Hans wieder eine seltsame Geschichte auf dem Schulweg. Gegenüber der Schmiede standen an der Seitengasse eine Reihe aneinander gebauter Häuser. Eigentlich waren sie neu; aber sie sahen öde und unschön aus. Ringsum war kein Baum und kein Blumengärtlein. Aus den Fenstern hing unordentliche Wäsche, und die Frauen und Kinder, die zum Vorschein kamen, waren auch nicht sauber und nett anzusehen. Seit einer Woche bemerkte Hans vor dem zweiten Hause immer eine Anzahl Buben, die einander herumstiessen, bis einer die Türe aufriss und etwas hineinrief. Dann rannten alle schreiend und lachend davon.</p>
 <p>»Da ist gewiss jemand drin, den sie ärgern wollen!« dachte Hans und war im Begriff, das sehr ungezogen zu finden, als ihm der Haselnussmann einfiel. So arg wie diese Buben hatten er und Lotti es ja nicht gemacht; aber artig war es auch nicht gewesen.</p>
 <p>Hans blieb stehen. Ob sie wohl gar nicht aufhören wollten? Da fuhren sie plötzlich zurück. Jemand tat von innen die Türe auf und kam heraus. Es war eine alte Frau mit einem Stocke, den sie böse gegen die Buben streckte. Die grauen Haare hingen ihr um das magere kleine Gesicht, das mit seiner langen gebogenen<pb n="66"/> Nase ein wenig an einen Vogelkopf erinnerte. Es sah grade aus, als ob die Frau einen picken könnte. Sie hielt sich schlecht auf den Füssen und brauchte den Stock sonst jedenfalls, um sich darauf zu stützen. Hastig humpelte sie die Stufen vor der Türe hinunter, um den Buben nachzulaufen, die aber längst hinter der Hausecke verschwunden waren.</p>
@@ -1655,7 +1658,7 @@
 <l>»Nun ziehen wir zum Tor hinaus,</l>
 <l>Ade, du lieber Ort ...«</l>
 <p>Und im Takte marschierte die ganze Schar unter den Birnbäumen dahin und zur Landstrasse hinauf. Noch lange tönte ihr fröhliches Singen zur Seeweid zurück.</p>
-<pb n="195"/><head>Ein Molch bringt Hans in Ungelegenheit.</head>
+<pb n="195"/>
 <p><hi>Z</hi>wei Tage nach Hansens Gesellschaft mussten auch die kleinen Doktors die Seeweid verlassen. Die Kinder konnten nicht begreifen, dass die Zeit schon um war!</p>
 <p>»Mich dünkt, es sei erst gestern gewesen, dass ich da den "Schwan" habe herausfahren sehen!« sagte Otto, als man auf dem Weg zum Bahnhof wieder am Hafen vorbeikam.</p>
 <p>Der sonst so lebhafte Bursche war sehr ernsthaft und schweigsam; nur von Zeit zu Zeit wendete er sich zurück:</p>
@@ -1820,7 +1823,7 @@
 <p>»Meinetwegen. Es ist eigentlich nicht viel«, fing Fritz an. »Also, ich machte vor zwei Jahren eine kleine Fussreise zum <pb n="211"/>Grossonkel Andreas, dem Bruder von Tante Völklein. Er hat ein kleines Gut bei Flinbach mitten in den Reben. Als ich zum Urstein kam, war es etwa halb acht. Die Magd, die mir die Haustüre aufmachte, lachte und rief:</p>
 <p>"O, Herrjeh! Da kommt noch einer!"</p>
 <p>"Was?" fragte ich. "Wie viele sind denn schon da?"</p>
-<p>"Drei", sagte sie. "Aber kommen Sie nur herein, Fritz!</p>"
+<p>"Drei", sagte sie. "Aber kommen Sie nur herein, Fritz!"</p>
 <p>Sie führte mich auf die grosse Altane. Da war der Bruder von Tante Marie mit seinen zwei Töchtern. Und alles wollte bei Onkels übernachten. Sie sassen gerade beim Nachtessen.</p>
 <p>"Jetzt nimmt's mich wirklich wunder, wie man dich noch unterbringt -!" rief der Onkel mir zu und lachte mit seiner lauten Stimme. Er hiess mich hinsitzen und schob mir die Platten mit Schinken und mit Eierkuchen zu, während die Tante mir eine grosse Tasse voll Kaffee und Milch einschenkte. Sie haben dort immer Kaffee zum Abendessen.</p>
 <p>Dann gab es eine eifrige Beratung, wo ich schlafen könnte, bis Fräulein Anna, die ältere der zwei Töchter, rief:</p>
@@ -2145,7 +2148,7 @@
 <p>Die beiden Mädchen zogen sich schnell an. Hans war schon auf der Gartenmauer.</p>
 <p>»Tüh, tütüh -« tönte ein Horn draussen. Es klang ganz unheimlich. »Bing, bing, bing -« antwortete eine helle Glocke.</p>
 <p>Das Horn kam von einem Steinschiff, der Glockenklang von einem kleinen Schraubendampfer. Langsam, mit der grössten Vorsicht mussten die Schiffe durch den dichten Nebel fahren, der heute über See und Land lag. Alle Augenblicke konnte ein Zusammenstoss geschehen.</p>
-<p>Die Kinder horchten hinaus; es war so geheimnisvoll, alle die Töne zu hören und nichts zu sehen. Einen Augenblick tauchte ziemlich nahe vor der Mauer riesenhaft mit schlaffem Segel am hohen Maste ein Steinschiff auf und verschwand im nächsten Augenblick wie ein Gespensterfahrzeug.</p>0
+<p>Die Kinder horchten hinaus; es war so geheimnisvoll, alle die Töne zu hören und nichts zu sehen. Einen Augenblick tauchte ziemlich nahe vor der Mauer riesenhaft mit schlaffem Segel am hohen Maste ein Steinschiff auf und verschwand im nächsten Augenblick wie ein Gespensterfahrzeug.</p>
 <p>»Wenn wir nur hinausrudern dürften!« sagte Hans. »Ich <pb n="249"/>würde meine kleine Pfeife mitnehmen; mit der müsstest du dann Zeichen geben, Marianne. Eigentlich sollte man das auch üben, wenn man am See wohnt!«</p>
 <p>Da er aber wohl wusste, dass Mama für diese Art von Probefahrten nicht zu gewinnen wäre, begnügte er sich, mit den Schwestern den Nebel auf dem festen Lande zu durchstreifen. Es war ein Glück, dass Hans gerade heute erst um acht Uhr in der Schule sein musste. So konnte man zu dritt auf dem Wege ein lustiges Versteckspiel machen. Man lief auf dem freien Felde davon, bis in dem dichten Nebel keins das andere mehr sah. Man wirbelte sich ein dutzendmal im Kreise herum, stand dann still und wusste nun nicht mehr, ging es rechts oder links, vor- oder rückwärts zur Strasse hinauf.</p>
 <p>Das war ein solcher Spass, dass man ihn etwas zu lange trieb. Von dem unsichtbaren Kirchturm schlug es schon viertel vor acht. Hans fing an zu rennen und rannte bis in die Stadt, so dass er gerade noch recht in die Klasse kam. Marianne und Lotti liefen auch, was sie konnten; aber als sie in ihr Schulhaus kamen, war's in den Korridoren schon ganz still. Glücklicherweise war Mariannes Lehrerin aufgehalten worden und trat eben erst aus dem Lehrerzimmer; so konnte Marianne noch hineinschlüpfen. Lotti öffnete etwas zaghaft die Türe ihres Zimmers. Fräulein Matthias stand schon vor der Klasse. Aber sie schaute Lotti freundlich an.</p>
@@ -2352,7 +2355,8 @@
 <p>Lotti sprang von der Mauer und lief zum Haus.</p>
 <p>Marianne sah dem Schiffe nach, bis die Lichter verschwanden.</p>
 <p>»Hans«, sagte sie dann, »jetzt kann ich fast auch nicht mehr traurig sein. Weisst du, wenn man nur das Wort Weihnacht hört, fällt einem so viel Schönes ein! Du - wenn es dann klingelt und wir hinunterrennen dürfen zum Christbaum und zu unsern Tischen -! Ich wünsche mir ein Zeichnungsbuch und eine neue Malschachtel und Schlittschuhe -« Marianne stand auf. »Das ist komisch: in meinem Kopfe geht's ganz durcheinander; halb bin ich traurig wegen der Seeweid und halb schrecklich vergnügt wegen Weihnacht!« Damit verliess auch Marianne die Seemauer.</p>
-<p>Und Hans -? Allein in Trübsal da draussen bleiben wollte er doch nicht. Er ging langsam nach und merkte, dass er gleichfalls von Lotti angesteckt war. Eben hatte er noch gemeint, nur Leid um die vergangenen Sommertage zu fühlen, und jetzt tauchten in ihm lauter lustige Gedanken an die kommenden Winterfreuden auf.</p></div>
+<p>Und Hans -? Allein in Trübsal da draussen bleiben wollte er doch nicht. Er ging langsam nach und merkte, dass er gleichfalls von Lotti angesteckt war. Eben hatte er noch gemeint, nur Leid um die vergangenen Sommertage zu fühlen, und jetzt tauchten in ihm lauter lustige Gedanken an die kommenden Winterfreuden auf.</p>
+      </div>
 </body>
 </text>
 </TEI>

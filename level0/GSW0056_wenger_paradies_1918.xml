@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Er und Sie und das Paradies: ELTeC Ausgabe</title>
-                <author ref="https://de.wikipedia.org/wiki/Lisa_Wenger">Wenger, Lisa (1858-1941)</author>
+                <author ref="viaf:95163456 wikidata:Q125633">Wenger, Lisa (1858-1941)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Sebastian Cramm</name>
@@ -25,7 +25,6 @@
                         <name>UB Basel</name></respStmt>
                 </bibl>
                 <bibl type="digitalSource">
-        
                     <respStmt><resp>Scan</resp>
                         <name>UB Basel</name></respStmt></bibl>
                 <bibl type="firstEdition">

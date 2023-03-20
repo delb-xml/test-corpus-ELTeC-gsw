@@ -8,7 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Spätrot.Rosen im Schnee. Schweizer Novellen: ELTeC ausgabe</title>
-                <author ref="https://de.wikipedia.org/wiki/Maria_Goswina_von_Berlepsch">von Berlepsch, Goswina Maria (1845-1916)</author>
+                <author ref="viaf:64750310 wikidata:Q1895904">von Berlepsch, Goswina Maria (1845-1916)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Priska Rüegg</name>
@@ -30,7 +30,7 @@
                         <name>UB Basel</name></respStmt></bibl>
                 <bibl type="firstEdition">
                     <title>Spätrot. Rosen im Schnee: Schweizer Novellen von G. von Berlepsch</title>
-                    <author>von Berlepsch, Goswina Maria </author>
+                    <author>von Berlepsch, Goswina Maria</author>
                     <publisher>Jacques Bollmann</publisher>
                     <pubPlace>Zürich</pubPlace>
                     <date>1905</date>

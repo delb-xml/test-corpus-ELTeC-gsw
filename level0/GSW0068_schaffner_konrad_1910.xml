@@ -1,10 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0013" xml:lang="de">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GSW0068" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Konrad Pilater: ELTeC Ausgabe</title>
-                <author ref="https://de.wikipedia.org/wiki/Jakob_Schaffner">Schaffner, Jakob (1875-1944)</author>
+                <author ref="viaf:14783420 wikidata:Q124926">Schaffner, Jakob (1875-1944)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
                     <name>Nele Spielberg</name>
@@ -92,10 +96,10 @@
 <p>Zwiegespräche von Käuzchen und Liebenden...... 309</p>
 <p>Schlote und Essen und ein brechendes Herz. ..... 328</p>
 <p>Freiheit? ...... 333</p>
-<pb n="7"/><head><p>Erstes Buch</p>
-<p>Franz Reske</p></head><pb n="8"/>
+<pb n="7"/><p>Erstes Buch</p>
+<p>Franz Reske</p><pb n="8"/>
 <div type="chapter"> <pb n="9"/><p>Erstes Kapitel</p>
-<head><p>In der Kundenherberge</p></head>
+<p>In der Kundenherberge</p>
 <p><hi>E</hi>s war zur Zeit eines dunkelsonnigen Spätsommers, daß ich affenjung und flaumbärtig das Moseltal hinaufwanderte, unter Schlössern und Weinbergen vorbei durch Weiler
 und Städte, immer hinter meiner regenbogenfarbigen Sehnsucht her. Die Sonne stand am Himmel wie eine schöne kraftvolle Witwe, zu erfahren, um noch einmal Frühling machen
 zu können, aber noch lange nicht alt genug und gesonnen, das Welthausregiment aus den Händen zu geben. Allenthalben, wo ich durchgekommen war in deutschen Landen, strahlten die
@@ -208,9 +212,8 @@ hin auf seine Zurückkunft warten, um ihm bekanntzugeben, daß ich dableibe. Der
 Meister nach mir sehen kam, dem ich mich am Morgen verdingt hatte. So ging ich mit und hoffte, Reske doch am Abend in<pb n="20"/>der Gaststube wiederzufinden. Aber auch diese Erwartung kam
 von den roten Wangen. Und nachdem ich noch eine ganze Woche lang jeden Abend in der Herberge zugebracht hatte, mußte ich die Hoffnung auf ein Wiedersehen endgültig fallen
 lassen. Zugleich begann sich ein trübseliges Regenwetter in der Welt breit zu machen, und so wurde ich auch meiner Stelle ein wenig froh.</p></div>
-<div type="chapter"><p>Zweites Kapitel</p>
-<head><p>Theaterfieber</p></head>
-<p><hi>A</hi>ls ich an meinem neuen Platz den ersten Wochenlohn in der Tasche hatte, dachte ich an das Gespräch in der Kapuzinerherberge und kaufte mir in einem Zigarrenladen ein Theaterbillett für die Sonntagabendoper.</p>
+<div type="chapter"><p>Zweites Kapitel</p><p>Theaterfieber</p>
+<p>Als ich an meinem neuen Platz den ersten Wochenlohn in der Tasche hatte, dachte ich an das Gespräch in der Kapuzinerherberge und kaufte mir in einem Zigarrenladen ein Theaterbillett für die Sonntagabendoper.</p>
 <p>Eine der Welt abgewandte und dafür desto inniger auf die Ewigkeit gerichtete Anstaltserziehung hatte es sich angelegen sein lassen, in mir ein ungünstiges Vorurteil zu pflanzen gegen
 alles, was mit der Kunst zusammenhing, ein Vorurteil, das zwar in literarischen Dingen durch häufigen Genuß von Zeitungsromanen bereits ein wenig durchbrochen war, das aber
 in Hinsicht auf die bildende und die Bühnenkunst noch ungeschwächt in seiner ganzen scheuen pietistischen Größe dastand. Wenn ich nun auch das Bibelchristentum seit Jahren nicht
@@ -279,9 +282,10 @@ General vorkommt. Sie sehen, man kann's als Statist zu etwas bringen."</p>
 <p>Die zweite Liebhaberin kicherte.</p>
 <p>"Er könnte im Notfall auch eine stumme Zofe machen."</p>
 <p>"Bezweifle," witzelte der junge Intrigant. "Er hat zu offenbare Schusterhände."</p>
-<p>Er belachte sich sehr, aber es lachte niemand mit. Ich bedankte mich bei dem Heldenvater für die empfangene Auskunft und zog mich zurück.</p></div>
+<p>Er belachte sich sehr, aber es lachte niemand mit. Ich bedankte mich bei dem Heldenvater für die empfangene Auskunft und zog mich zurück.</p>
+</div>
 <div type="chapter"><p>Drittes Kapitel</p>
-<p><head>Ein Durchfall</head></p>
+<p>Ein Durchfall</p>
 <p><hi>E</hi>s war klar, daß ich jetzt glattweg aus allen Miseren kam. Denn wenn ich beim Stadttheater angestellt wurde, so war ich eine geachtete Persönlichkeit, die sich überall melden
 konnte, und hatte jedenfalls zudem einen ansehnlichen Lohn, mindestens doppelt so viel wie als Schustergeselle. Die Sache fuhr mir in die Beine; ich bekam Lust, zu springen und
 zu tanzen. Der König David hatte nach der Harfe gelangt, als seine Prüfungszeit herum war, und ich trat in ein pläsierliches Lokal. Ich suchte mir eine junge und feine
@@ -358,9 +362,10 @@ frischer junger Husar per Einquartierung in mein Landhaus geschneit kämen - ich
 <p>Sie lächelte auf eine wunderbar feine und besondere Weise mit ihren blauen Augen. Ihre Augen strahlten ein geheimnisvolles, siebenfarbiges Spektrallicht aus, das man nur bei erfahrenen Frauen findet. Und ich sah sie gekapert an und sagte:
 "Doch, sehr, besonders wenn sie schön sind."</p>
 <p>Das gefiel ihr. Sie fuhr mir mit der Hand übers Haar und sah mich tröstlich an.</p>
-<p>"Dann werden sie Ihnen auch nicht fehlen, mein Freund. Sie zeigen ideale Neigungen und haben bei den Schauspielern Fiasko gemacht, das spricht zu Ihren Gunsten."</p></div>
+<p>"Dann werden sie Ihnen auch nicht fehlen, mein Freund. Sie zeigen ideale Neigungen und haben bei den Schauspielern Fiasko gemacht, das spricht zu Ihren Gunsten."</p>
+</div>
 <div type="chapter"><p>Viertes Kapitel</p>
-<head><p>Lebensfieber und ein Pakt</p></head>
+<p>Lebensfieber und ein Pakt</p>
 <p><hi>E</hi>s war eine Woche nach meinem Theaterunglück, daß mich gegen das Ende einer Nacht meine Begebnislosigkeit früh weckte. Und nachdem ich eine Weile grübelnd still gelegen
 hatte, trieb es mich, und ich stand auf. Als ich mich angekleidet hatte, stieg ich meine fünf Treppen hinab und trat aus dem Haus auf die Gasse. Es war noch voll Nacht. Der Mond hing
 irgendwo im Westen, aber die Gassen lagen finster; nur in der<pb n="35"/>Höhe und auf den Straßenkreuzungen stand Mondschein; hier gingen einzelne frühe Arbeiter ihren Werkplätzen zu. Da und
@@ -473,7 +478,7 @@ zwischen uns hinein.</p>
 <p>Ich aber tat in der kommenden Nacht kein Auge zu, obwohl ich sie in meinem Bett verbrachte. Wilde Freude, Zukunftsbilder, Herzklopfen und angstvolle Zweifel, ob Reske
 auch Wort halten werde, ließen mich nicht schlafen.</p></div>
 <pb n="45"/><div type="chapter"><p>Fünftes Kapitel</p>
-<p><head>In -Paris</head></p>
+<p>In -Paris</p>
 <p><hi>E</hi>inige Tage nach diesen Geschichten geriet mir aus einem Buch, das mir Reske geliehen hatte, ein Blatt beschriebenen Papiers in die Hand, von dessen Vorhandensein an
 diesem Ort er sicher nichts wußte, sonst hätte er es vorher an sich genommen. Es schien ein Entwurf zu einem Brief und zeigte Reskes ebene und klare Handschrift, so verhängnisvoll
 der Inhalt auch lautete. Das Blatt war überschrieben: "Liebe, liebe Frau!" und enthüllte mir in wenigen Worten ein Verhängnis, das sich seiner bemächtigt hatte. Ja, es verhalte sich
@@ -560,7 +565,7 @@ sie waren ernst, gründlich und schlecht angezogen. Ich über<pb n="53"/>raschte
 ich die Völker und Hauptstädte folgendermaßen unterbrachte. Amerika erschien mir als das Vestibül, Italien als die Bibliothek, Wien war das bequeme Herrenzimmer, London der reiche
 Speisesalon, Deutschland glaubte ich als das Arbeitszimmer des Hausherrn, und Paris als Salon und Boudoir der schönen Hausfrau am treffendsten angesprochen.</p></div>
 <div type="chapter"><p>Sechstes Kapitel</p>
-<p><head>Klangloser Ausgang und die Landstraße</head></p>
+<p>Klangloser Ausgang und die Landstraße</p>
 <p><hi>W</hi>ir waren nach Paris gefahren mit dem Vorsatz, Arbeit zu nehmen, fleißig zu studieren und nebenher das schöne Leben zu genießen. Nun war die Sache aber nicht einmal umgekehrt gegangen: wir hatten bisher fleißig das schöne Leben
 genossen; studiert war nichts worden, und Arbeit hatten wir überhaupt nicht gesucht. Endlich schien uns eben die rechte Zeit dazu, und wir besprachen uns nicht länger mit Fleisch und Blut,
 sondern hoben die Umfrage an. Aber gesucht ist noch nicht gefunden; auch gehört Zeit zum Finden, und wir hatten nur noch wenig Zeit. Dazu kam, daß die großen Schuhgeschäfte wegen
@@ -700,7 +705,7 @@ müde und schlafsüchtig, wie ich war, auf Stuhl und Boden geschmissen hatte, hi
 lange, schwere Wollstrümpfe sah ich da. Und unter dem Stuhl fand ich ein Paar derbe Bürgerschuhe statt meiner landbefahrenen Trittlinge.</p></div>
 
 <div type="chapter"><p>Siebentes Kapitel</p>
-<p><head>Von Erbsenbeuteln, dünnen Lippen und vom Küssen</head></p>
+<p>Von Erbsenbeuteln, dünnen Lippen und vom Küssen</p>
 <p><hi>A</hi>ls ich endlich in der morgensonnigen Stube vor meiner Gastgeberin stand, begann ich die nähere Bekanntschaft mit einem großen Dankspruch. Darüber freute sie sich dann,
 ich sah es ihr wohl an, aber sie fragte mich nur, wie ich geschlafen habe, und hieß mich darauf zu Tisch sitzen, wo bereits oder vielmehr noch gedeckt war. Sie schenkte mir ein und legte
 mir vor und setzte sich mit dem Rüstkörbchen selber zu mir. Ich hatte noch keine andere junge Frau getroffen, die so das Mütterliche in sich trug und mich darüber das Fremde am
@@ -788,7 +793,7 @@ einen Augenblick lächelnd an und sagte dann: "Sehen Sie nun, daß Sie's nicht k
 <p>"Ich glaube, es ist jetzt Zeit, daß Sie Ihren Freund aufsuchen gehen. Bringen Sie ihn zum Mittagessen mit, hören Sie? Nehmen Sie Ihren Hut; ich will Ihnen den Weg zeigen."</p></div>
 
 <div type="chapter"><p>Achtes Kapitel</p>
-<p><head>Eine Einsame</head></p>
+<p>Eine Einsame</p>
 <p><hi>A</hi>ls ich aus dem Haus trat, schien die helle Weihnachtssonne vom Himmel auf meinen Hut herunter, und die Straße war auf und ab voll Leben und Glanz, so daß sich meine etwas
 bedrückte Munterkeit freundlich wieder aufplusterte gleich den Sperlingen, die überall auf dem unterschiedlichen Gesims der pfarrkirche herumsaßen und sich mit Gepiepse die Federn revi<pb n="74"/>dierten. Auch geriet ich mitten in ein Kindertreiben hinein,
 das der Wind von Rom von allen Seiten zum Jugendgottesdienst herbeiwehte; es waren ganz freudige Jahrgänge darunter, aber alles vermummt und in neue Pelze und Tücher
@@ -885,7 +890,7 @@ einen Moment warten, sie wolle nur eben der Großmutter einen Schluck Kaffee bri
 etwas los.</p></div>
 
 <div type="chapter"><p>Neuntes Kapitel</p>
-<p><head>Noch ein schiefer Ausgang</head></p>
+<p>Noch ein schiefer Ausgang</p>
 <p><hi>E</hi>s gab Anisgeback und heißen Rotwein zum Vesper, auch Napfkuchen, aber wir saßen an dem fröhlichen Tisch wie an einem Armenessen, weil Frederika nicht bei der Sache
 war. Seitdem die Großmutter angefangen hatte, sich wichtig zu machen, zeigte sie ein dunkles Gesicht und sprach mit zugeschobenen Registern; sie war auch mit den Augen an einem
 anderen Ort. Dafür begann es in der Kirche nebenan lebendig zu werden. Geläutet hatte es schon eine Weile, wie denn der ganze Tag ein einziges Glockenspiel war mit kleinen Unterbrechungen, während deren die Gläubigen dem Christkind
@@ -978,10 +983,11 @@ nach meinem Reisezeug. Das Weib kam wieder gelaufen und hielt noch eine Rede, vo
 Und dann sagte ich noch: "Adieu!" und "Merci beaucoup!" Ich hätte gern etwas aufgeschrieben für Frederika, doch fehlte es an Bleistift und Papier, und ich verstand es nicht zu verlangen. So nahm ich die Tür in die Hand und ging ab.
 "Vielleicht", dachte ich, "begegnest du ihr unterwegs noch irgendwo." Ich hielt scharfe Ausschau, kam aber nicht zu dem erhofften Trostblick, und mit der ganzen unverminderten Last
 meiner Trübsal erschien ich vor der Post, wo Reske schon gewartet hatte.</p></div>
-<pb n="91"/><head><p>Zweites Buch</p>
-<p>Unter Bürgern</p></head><pb n="92"/>
-<pb n="93"/><div type="chapter"><p>Erstes Kapitel</p>
-<p><head>Ein Unterschlupf</head></p>
+            <div type="chapter"><pb n="91"/><p>Zweites Buch</p>
+                <p>Unter Bürgern</p><pb n="92"/>
+                <pb n="93"/>
+                <p>Erstes Kapitel</p>
+<p>Ein Unterschlupf</p>
 <p><hi>I</hi>n unsere Reise kam nun ein neuer Zug, weil es zweierlei ist, fünfhundert Kilometer zwischen sich und dem Ziel zu haben, oder nur noch drei Tagemärsche, höchstens vier. Die
 Erwartung der Landesgrenze machte die Füße leichter und die Straße fröhlicher. Das Erfahrene drückte nur das Gemüt, nicht die Knie. Gewisse Schatten verloren sich. Ich bekam eine
 Art Heimweh nach allem, nach Frederika, nach der Großmutter, nach den Engeln an den Wänden und nach dem seligen Schwaben.</p>
@@ -1123,7 +1129,7 @@ nicht hier und da vom Schabernack der Aberweiler Jugend hätte leiden müssen.</
 hinaufzogen. Die Höhe war mit Wald bestanden. Weiter aufwärts sah man noch die Staatsforsten mit Steinbrüchen hervortreten. Abwärts dehnte sich die Ebene, auf der in der Ferne
 das Straßburger Münster emporragte.</p></div>
 <div type="chapter"><p>Zweites Kapitel</p>
-<p><head>Bürger</head></p>
+<p>Bürger</p>
 <p><hi>A</hi>ls ich vierzehn Tage am neuen Platz gewesen war, kam gegen Abend ein Schiff den Kanal herabgefahren und legte unterm Garten des Bäckers an. Es enthielt eine reichlich getürmte Fracht Backholz, und es war abgemacht und
 angezeigt, daß wir Schustergesellen am anderen Tag beim Abladen helfen sollten.</p>
 <p>Am Morgen bei Laternenschein, als noch im Städtchen herum reichlich geschlafen wurde, begann das Unternehmen. Der Schiffer gab mit seiner Frau die Scheite herunter, wir
@@ -1175,7 +1181,7 @@ er lag mit den Armen auf dem Tisch und heulte etwas von der Grande Nation. Und d
 und war ein wenig von der Farbe gekommen. Jean fuhr mit<pb n="111"/>den Augen in den Winkeln herum, wie in Verlegenheit, und als ob er sagen wollte: "Ich höre und sehe nichts, und
 es soll niemand sagen, ich hätte mitgetan!"</p></div>
 <div type="chapter"><p>Drittes Kapitel</p>
-<p><head>Das Eisfest</head></p>
+<p>Das Eisfest</p>
 <p><hi>U</hi>m die Mitte Februar wurde auf dem Kanal ein Eisfest erlebt, wie es die vielberufenen ältesten Leute nie gesehen hatten. Nicht lang nach der Abfahrt des Holzkahnes hatte
 es zu frieren angehoben, und diese kalte Tätigkeit so andauernd und mit solchem Erfolg fortgesetzt, daß nun das Baggerschiff mitten im Wasser unserem Haus gegenüber
 festgeeist lag und sich mit keinem Glied mehr rühren konnte. Da gab es großes Leben auf dem Kanal, das Tag für Tag gleich nach Mittag anhob und bis in die Nacht hinein fortdauerte bei Fackelglanz und im Schein der Uferfeuer. Stundenweite Wettläufe konnten eingerichtet werden das Eis auf
@@ -1285,7 +1291,7 @@ vor lauter Eis und Jungfer. Aber ich konnte es nachholen. Und weil er verlangte,
 <p>Die Vornahme wurde auch am anderen Mittag ausgeführt. Es war ein halber katholischer Feiertag, und wir hatten vom Essen weg frei. Ich schrieb vier Seiten wie gesät und trug den
 Brief zur Post. Nachher ging ich wieder aufs Eis.</p></div>
 <pb n="121"/><div type="chapter"><p>Viertes Kapitel</p>
-<p><head>Reskes neues Gesicht</head></p>
+<p>Reskes neues Gesicht</p>
 <p><hi>A</hi>m Samstag hieß es, wer wolle, der könne per Schlittschuh von Aberweiler nach Straßburg fahren, so sei es mit dem Eis allbereits bestellt. Und weil das für mich nicht
 zwecklos gesagt war, so packte ich mich am Sonntag morgen zu guter Zeit auf, um die Gelegenheit zu probieren. Es verhielt sich alles so. So weit das Auge sah und der Kanal reichte,
 aus den Bergen bis nach Aberweiler und von Aberweiler bis in den Straßburger Hafen hinein schimmerte und glitzerte ohne Unterbruch diese fröhliche Einrichtung; wie nach der
@@ -1369,7 +1375,7 @@ besser zu machen, so wird er nicht Fabrikarbeiter, denn es ist eine Schande."</p
 <p>"Ja, ein Schustergeselle kann immer selbständig werden; ein Arbeiter nie. Und wir haben auch mehr Lebensart."</p>
 <p>"So, so. Ja dann. Das muß eben einem Menschen gesagt werden. Aber wenn du fertig bist, so können wir noch ein wenig spazieren gehen. Ja?"</p></div>
 <pb n="128"/><div type="chapter"><p>Fünftes Kapitel</p>
-<p><head>Der zweite Pakt</head></p>
+<p>Der zweite Pakt</p>
 <p><hi>W</hi>ir traten einen stillen, ernsthaften Spaziergang an. Reske schlug wortlos die Richtung nach dem Rhein ein, und ich ging verprügelt und ängstlich neben ihm her. Die
 Sonne schien, und in der Stadt träufelte dies und jenes Dach, wo direkt darunter geheizt wurde. Aber vor den Toren lag die weite winterliche Ebene in lautloser Unberührtheit da. Hier
 und dort tummelte sich ein Volk auf einer Eisbahn; ab und zu begegnete uns schellenklingend eine Schlittenpartie. Einmal flog ein Zug Schneegänse über uns hin. In den zwischenstationierten Ausflugs- und Vergnügungslokalen neben der
@@ -1441,7 +1447,7 @@ weither an; dann begriff er.</p>
 <p>"Ja so, du hast dir ja neue Schlittschuhe zugelegt, du Guter. Laß sehen die Marke. Halifax. Ganz hübsch. Ich will dein kostbares Leben natürlich nicht in Gefahr bringen. Reise mit
 Gott, mein Sohn! Auf Wiedersehen!"</p></div>
 <pb n="135"/><div type="chapter"><p>Sechstes Kapitel</p>
-<p><head>Der Josephsumzug und ein Abschied</head></p>
+<p>Der Josephsumzug und ein Abschied</p>
 <p><hi>W</hi>as nun das schöne Eis anbelangt, so heißt es allgemein, daß strenge Herren nicht lange regieren. Auch sagt die Wetterregel vom Apostel Matthias, daß er bei seinem
 Kommen am 24. Februar das Eis breche, hingegen, wenn er keines vorfinde, welches verfertige.</p>
 <p>Dies Jahr war es gerade, als hätte sich der Heilige auf dem Kalender versehen, oder als sei ihm das vorhandene Eis zu heftig; wenigstens hatten seine Füße am Abend nicht die 
@@ -1551,7 +1557,7 @@ wir weiter sehen. Wenn wir noch am Leben sind und mir der Spaß nicht zu lange d
 einen Weg gehen. Leb wohl, und halte derweil fleißig Augen und Ohren offen, und gehe ja keinen Quark vorüber, in den sie Dich will hineingucken lassen. Dazwischen sieh auch einmal
 in die 'Geschichte des Materialismus'. Übrigens sei allen üblen Zeiten empfohlen von Deinem Reske."</p></div>
 <pb n="145"/><div type="chapter"><p>Siebentes Kapitel</p>
-<p><head>Ostern</head></p>
+<p>Ostern</p>
 <p><hi>A</hi>m Nachmittag des Ostersonntags saß ich allein auf der Gesellenkammer. Meine Kollegen waren zum Tanz gegangen, sie konnten sich das leisten. Ich hatte zwar auch meine
 neue Jacke an, ein blaues Cheviotwunder aus der Konfektion Levy, war jedoch im übrigen noch nicht so flott ins Wohlhaben gesetzt, daß ich bei jenen hätte mittun können. Aber worauf es
 mir jetzt ankam, das war, ein Gedicht zu machen auf die Jungfer, weil es so weit war mit mir. Deine schönen braunen Augen, die du in dem Kopfe trägst, oder so. Für ihr Haar
@@ -1737,7 +1743,7 @@ Augen nach uns her und schmunzelten, und der Korbmacher grunzte.</p>
 <p>"Grauhöfer, was habt Ihr für einen fruchtbaren Garten. Die Schwiegersöhne schießen aus der Erde wie Pilze."</p>
 <p>Schließlich brachten sie noch zwei Spaten heran, und so kam es, daß der Garten schon um zehn Uhr fertig war, statt erst um Mittag.</p></div>
 <div type="chapter"><p>Achtes Kapitel</p>
-<p><head>Eine Postkarte und ihre Folgen</head></p>
+<p>ine Postkarte und ihre Folgen</p>
 <p><hi>E</hi>ines Montagmorgens saßen wir in der Werkstätte und warteten auf den Meister. Jean feilte seine Ahlen spitz. Karl stand am Schleifstein und schliff ein Messer. Und ich
 nähte einen Flicken in meine Schürze, wo sie verklopft war. Vor der Post stand das Morgenbähnchen mit offenen Sommerwagen, rauchte und dampfte, und daran vorbei
 marschierte mit Trommel und Fahne eine Schülerklasse, denn es war bereits die Zeit der Schulausflüge.</p>
@@ -1864,7 +1870,7 @@ Mann, bis Rouge in einer Art Wut den schweren Hammer packte, aufzog und losschlu
 sollen, durch Hebelscheit und Holzboden hindurch glatt in Gottes grünen Rasen hinein, wo er stecken blieb; aber der Ring fuhr wie der Teufel die Stange hinauf und über Nagel
 und Glocke hinaus in die blaue Luft. So hatte Rouge auch sein geweissagtes Abenteuer.</p></div>
 <div type="chapter"><p>Neuntes Kapitel</p>
-<p><head>Allerlei Bedrängnisse</head></p>
+<p>Allerlei Bedrängnisse</p>
 <p><hi>F</hi>ür den Abend stand uns im Bad ein Tisch reserviert, den wir bei guter Zeit aufsuchen gingen. Der Weg dahin führte ein wenig um die Stadt herum, erst die Kastanienallee zurück,
 dann eine Weile zwischen sonnenwarmen Kornfeldern hin, und endlich eine kleine Anhöhe hinan, von der aus einem Kranz von Himbeerhecken und Obstbäumen das Bad mit<pb n="172"/>hellen Fenstern in die Weite hinausleuchtete. Das Gebäude
 stammte aus der französischen Zeit.</p>
@@ -1932,7 +1938,7 @@ von dem nunmehrigen wunderbaren und unaufhörlichen Dasein unserer Liebe verstä
 faßte mir ein Herz und nahm sie an der Hand. Und nach einer<pb n="178"/>weiteren Weile stummen Voreinanderstehens küßten wir uns. Die Sterne am Himmel konnten dabei zusehen, wenn sie
 wollten.</p></div> 
 <div type="chapter"><p>Zehntes Kapitel</p>
-<p><head>Liebe</head></p>
+<p>Liebe</p>
 <p><hi>I</hi>ch will dir was sagen," sprach Barbara und spielte an meinem Rockkragen: "Jetzt sind wir nämlich verlobt."</p>
 <p>"Das ist recht," entgegnete ich. "Ich merke, daß es schön ist, verlobt zu sein. Wenigstens mit dir."</p>
 <p>"Ich glaube, ich kriege einen schmeichlerischen Mann," lachte sie und errötete ein wenig. "Aber höre einmal, ich muß dich etwas fragen. Wenn jetzt dein Reske wiederkäme und dich
@@ -2048,11 +2054,11 @@ konnte, richtete aber nichts aus damit, als daß ihm Rouge Redensarten anhängte
 <p>"Du bist auch ein Schwiegersohn, und der Teufel soll dich auch holen," schrie er. "Ich singe, was ich will, verstanden?"</p>
 <p>Zu guter Zeit erschienen zwei reisige Gendarmen mit Säbel und Gewehr und brachten das Kind zur Ruhe, mehr durch<pb n="188"/>gütliches Zureden als durch die Gewalt ihrer Waffen, welche
 nur so nebenher gesehen wurden. Sie tranken auch mit Dank den Wein, den ihnen Rouge einschenkte, ließen es gelten, daß sie ebenfalls Schwiegersöhne seien und Rouge auch den Buckel
-hinaufklettern könnten, wenn sie wollten, und notierten in Frieden und Freundschaft seinen Namen.</p></div>
-<pb n="189"/><head><p>Drittes Buch</p>
-<p>Barbara</p></head><pb n="190"/>
-<pb n="191"/><div type="chapter"><p>Erstes Kapitel</p>
-<p><head>Die Bestallung</head></p>
+hinaufklettern könnten, wenn sie wollten, und notierten in Frieden und Freundschaft seinen Namen.</p></div><div type="chapter">
+<pb n="189"/><p>Drittes Buch</p>
+<p>Barbara</p><pb n="190"/>
+<pb n="191"/><p>Erstes Kapitel</p>
+<p>Die Bestallung</p>
 <p><hi>D</hi>ie Kirmes war vorbei. Die Festwiese am Kanal lag leer und zerstampft in der schönen Jahreszeit. Der Tag ging wieder seinen gewohnten Gang, bloß daß man noch allerlei
 zu reden hatte über Hans und Gret, schiefe oder allzu fröhliche Dinge, die da und dort geschehen waren im Wassersturz der Festfreude. Ein paar Mädchen verloren darüber ihren guten
 Ruf, einige Burschen bekamen mit dem Polizeikommissar zu tun, und die alten Knöpfe hatten ihre Unverbesserlichkeit aufs neue bewiesen.</p>
@@ -2165,7 +2171,7 @@ hoch. Ach du - du bist ja ein Schutzmann! Kommst du nicht von Hannover? Hast du 
 verschwunden. Am Himmel standen mit der Fortsetzung des gestrigen Tages auch die Dünste des gestrigen Tages wieder. Lautlos stieg am Horizont eine totgeborene Vorgewittersonne
 in den Morgen herauf. Karl sagte: "Sie wird nicht lange halten; mit dem Mittag werden wir das Gewitter haben."</p></div>
 <div type="chapter"><p>Zweites Kapitel</p>
-<p><head>Geheime Wirbel und Kreise</head></p>
+<p>Geheime Wirbel und Kreise</p>
 <p><hi>E</hi>s war um zehn Uhr herum wieder an einem Montagvormittag. Ich hatte die Arbeit ausgegeben, die Woche war auf der ganzen Linie angefangen. Seit acht Tagen hatten wir
 einen neuen Gesellen, der hieß Dominik.</p>
 <p>Die Straße lag im letzten Morgenschatten; es fehlten nur noch zwei Handbreiten, so traf die Sonne über das Posthaus hinüber die Ulmenwipfel und fiel uns dann aufs Trottoir
@@ -2284,7 +2290,7 @@ ist ja schon geschlossen; drehe nur hier um. Gute Nacht. Und vergiß nicht zu kl
 <p>"Du auch, du auch."</p></div>
 
 <div type="chapter"><p>Drittes Kapitel</p>
-<p><head>Meisters- und Kopfnöte</head></p>
+<p>Meisters- und Kopfnöte</p>
 <p><hi>D</hi>as Fest der jungen Ordensbrüder fand statt. Ich lernte da eine vielverzweigte Gesellschaft kennen, die alle Stände umfaßte, Arbeiter sowohl wie Gelehrte und Kaufleute; bloß
 Aristokraten fand ich nicht dabei. Was ich noch nicht wußte, das erfuhr ich zwischen den Nummern des Vergnügungsprogramms aus einem Vortrag. Ein idealistischer Zug wehte
 durchs Ganze, der besonders von den Studenten ausging, aber der Mittelpunkt war der alte Professor der Biologie, der da überall herumstand und mit den Leuten redete. Er hielt
@@ -2381,7 +2387,7 @@ Wissenschaft."</p>
 <p>Sie hatte schon einen Schritt vom Fenster getan.</p>
 <p>"Es ist nicht das," antwortete sie gleichsam den Büschen im Garten. "Was dem Menschen das Liebste ist, darauf kommt es an."</p></div>
 <div type="chapter"><p>Viertes Kapitel</p>
-<p><head>Maschinenpredigt</head></p>
+<p>Maschinenpredigt</p>
 <p><hi>D</hi>er Tag graute. Nach einer in der Werkstätte überm Buch verwachten Nacht erhob ich mich von meinem Meisterstuhl und löschte das Licht. Eigentlich hatte ich arbeiten sollen
 und auch wollen; dann war der Geist des Buches mächtiger geworden, und ich hatte angefangen zu lesen, erst im Widerstreit zwischen der Arbeit hinein seiten- und blattweise, schließlich von Mitternacht an ohne Unterbruch bis nun. Den Kopf
 mit den Gestalten und Erscheinungen einer grauen Erdenvorzeit erfüllt, trat ich in den dämmernden Garten hinaus.</p>
@@ -2447,7 +2453,7 @@ so nahe waren die Wände zusammengerückt.</p>
 <p>Barbaras blonder Kopf erschien wieder in der Tür. Hinter ihr im Hausflur flimmerte das Feuer der ungehemmten Sonne. Aller Augen blickten ihr entgegen wie einer Erlösung. Sie sah munter und helläugig zu mir herüber,
 wenn auch etwas erhitzt: "Meister und Gesellen sollen essen kommen."</p></div>
 <div type="chapter"><p>Fünftes Kapitel</p>
-<p><head>Samstag</head></p>
+<p>Samstag</p>
 <p><hi>E</hi>s war Samstag. Ich gab die letzte Arbeit aus. Der Wochenschluß begann Stimmung zu machen. Die Bewegung wurde knapper, das Wort erstarb vollends, der Handgriff wurde kürzer und härter.</p><pb n="226"/>
 <p>Um zwei Uhr setzte sich die junge Postmeisterin mit einer Näherei an ihr Fenster.</p>
 <p>Um halb drei Uhr kamen die Briefträger nacheinander angegangen und verschwanden im Posthaus.</p>
@@ -2530,7 +2536,7 @@ Treppenhaus mit einem frommen zutraulichen Glanz.</p>
 <p>"Gute Nacht, Barbara. Schlaf wohl."</p>
 <p>"Du auch. Du auch."</p></div><pb n="232"/>
 <div type="chapter"><p>Sechstes Kapitel</p>
-<p><head>Sommerende und Wendekreis</head></p>
+<p>headSommerende und Wendekreis</p>
 <p><hi>Ü</hi>ber diesen und anderen Geschichten waren in wirkungsvoller Kraft und Schönheit die Sommertage übers Land gezogen. Jeden Morgen flog vor der Sonne ein neuer 
 Glanzvogel am Horizont herauf, und wenn er seine Flügel ausbreitete, stürzte ihm ein Katarakt schweren gediegenen Lichtes von der Brust. Das Licht waltete uber der Welt mit seligen
 Händen. Manchmal war das Lichtprinzip so völlig erfüllt und durchgesetzt, daß es am hellen Mittag in sein Gegenteil umzuschlagen schien. Es gab Mittage mit unbegreiflichen 
@@ -2682,7 +2688,7 @@ ich ihr die Kette gab, das war der rechte Zeitpunkt. Und wenn ich sie im Einvern
 <p>Der Sturm schien mir zu diesen Plänen seinen Segen zu brausen, und mit dem herzstärkenden Gedanken: "Nun kommst du nicht mit leeren Händen zu ihm!" schlief ich gegen Morgen
 noch auf eine Stunde ein.</p></div>
 <div type="chapter"><p>Siebentes Kapitel</p>
-<p><head>Hochzeitszurüstungen und ein Hilfeschrei</head></p>
+<p>Hochzeitszurüstungen und ein Hilfeschrei</p>
 <p><hi>E</hi>s war an einem der vorgeschrittenen Regentage, daß Barbara und ich am Sonntag morgen in der Küche beim Morgenkaffee saßen. Die Lampe brannte noch, aber es begann
 langsam Tag zu werden. Die Küchenuhr zeigte ein Viertel nach neun Uhr. Draußen im Zwielicht ging der Regen. Dazwischen hing in grauen Streifen und Fetzen die verdorbene
 Musselinwäsche des Morgens hernieder. Im Herd brannte ein Rest Feuer; der warf ab und zu einen matten Lichtschein auf die geschlossene Küchentüre gegenüber. Die Temperatur
@@ -2850,11 +2856,11 @@ weißt alles. Aber jetzt bin ich nun willens und entschlossen, zu Dir zu kommen,
 Du mußt mir den neuen Geist zeigen, der mir hier alles verdorben hat, daß er mich herum stellt, wo ich hin muß; ich will und muß vieles erfahren, was mir das Leben schwer macht.
 Ich habe hier nur die wahre Liebe gefunden. Sie wird bestimmt in alles willigen. Sonst habe ich nichts gefunden. Alles ist draußen, wo Du bist. Ich bitte Dich, nimm mich jetzt wieder
 auf und schreibe mir, daß ich kommen kann; es geht mir sehr elend, und ich schwebe in Gefahr, weil ich in vier Wochen heiraten soll. Lieber Freund Reske, schreibe mir bald und 
-erlöse mich. Deinen sonst verzweifelnden Konrad Pilater."</p></div><pb n="261"/>
-<head><p>Viertes Buch</p>
-<p>Der Durchbruch</p><pb n="262"/></head>
-<pb n="263"/><div type="chapter"><p>Erstes Kapitel</p>
-<p><head>Die Verkündigung und das Telegramm</head></p>
+erlöse mich. Deinen sonst verzweifelnden Konrad Pilater."</p></div><div type="chapter"><pb n="261"/>
+<p>Viertes Buch</p>
+<p>Der Durchbruch</p><pb n="262"/>
+<pb n="263"/><p>Erstes Kapitel</p>
+<p>Die Verkündigung und das Telegramm</p>
 <p><hi>A</hi>m neunzehnten Sonntag nach Trinitatis standen hundert dunkelgekleidete Menschen gesenkten Kopfes unterm klaren, kühlen protestantischen Kirchenlicht, indessen der Pfarrer
 über ihnen das zweite Gebet sprach, und die Sonne von dem Rundfenster in der Orgelgegend drunten auf eine Reihe grauer und weißer Häupter eine helle Bahn legte. Des Pfarrers
 Stimme floß rein und glockenfest durch die tiefe Zeit: "Herr, allmächtiger Gott!" Und die weißgetünchten wesenlosen protestantischen Kirchenwände taten sich auseinander und traten
@@ -2945,7 +2951,7 @@ neugewonnenen Freiheit, wieder einmal tun wollte. Auf einem Heuschober vielleich
 nicht wichtig damit; um so schöner, dann gab es wieder Nächte, wie ich sie in Metz erlebt hatte, nur noch viel klarer und glühender.</p><pb n="271"/>
 <p>Gegen Morgen übermannte mich aber wieder die Seelenangst. Ich sprang aus dem Bett und entwarf ein Telegramm: "Um Gottes willen Antwort, Pilater."</p></div>
 <div type="chapter"><p>Zweites Kapitel</p>
-<p><head>Ein Toter</head></p>
+<p>Ein Toter</p>
 <p><hi>D</hi>raußen auf der Straße stand einsam die stille, verlorene Wintersonne und schien freundlich und vergebens in die entlaubten Ulmen vor dem Posthaus und in dessen Fenster.
 Ich stand in der Werkstätte vor dem Zuschneidetisch und arbeitete. Selten ging ein Mensch über die Straße; es war die Tageszeit des wunderlichen nachdenklichen Fleißes, der, wie
 der Geist der Mitternacht den Propheten, nach gehabtem Mittagsschlaf behaglich und verträumt den Bürger befällt und bewirkt, daß eine Stunde lang auch die berühmtesten
@@ -3109,7 +3115,7 @@ der Stadtrat unvermutet von seinem Stuhl auf und brachte, kein Mensch wußte woh
 jährlichen Sparkassenbodenschlag von dreihundert Talern.<pb n="285"/>Das reiche zu einer Beerdigung erster Klasse, und was könne der Mensch mehr wollen?</p></div>
 
 <div type="chapter"><p>Drittes Kapitel</p>
-<p><head>Der Aufbruch</head></p>
+<p>Der Aufbruch</p>
 <p><hi>A</hi>m Sonntag kamen die Hochzeitsgäste und Trauzeugen, Onkel Rouge mit seiner Tochter und Vetter Crispin, der diesmal auch seine Frau mitbrachte. Sie waren heute richtig
 gefahren auf der Bahn, aber umso umständlicher, weil sie die Hochzeitsgeschenke mitbrachten. Vetter Crispin trug eine Kiste unter dem Arm, aus der sich nachher ein zierliches Straßburger
 Münster herausstellte, geschnitzt, aus Zedernholz, mit abnehmbarem Dach und von innen zu erleuchten. Er hatte schon seit Jahren daran gearbeitet in seinen Feierabendstunden; und da
@@ -3229,7 +3235,7 @@ Regen- und Hagelschlag, der draußen niederging. Dann öffnete ich die Tür und 
 und das Hochzeitersträußchen auf der Hutschachtel. "Behüt' dich Gott, Bärbelchen! Ewig behüt' dich Gott!"</p></div>
 
 <div type="chapter"><p>Viertes Kapitel</p>
-<p><head>Ich hab' dich auserkoren</head></p>
+<p>Ich hab' dich auserkoren</p>
 <p><hi>D</hi>ie Dunkelheit draußen war vollständig; nicht einmal die Post über der Straße vermochte ich daraus zu unterscheiden. Ein Berg von Finsternis türmte sich über mir auf. Aber
 in der Höhe heulte und wimmerte es; sie fürchtete sich vor sich selber. Der Sturm schlug unverwahrte Läden auf und zu. An meiner Hutkrempe riß es wie mit Fäusten. Die Dächer
 knirschten und rasselten. Dicht neben mir schlug ein Ziegel schreiend aufs Straßenpflaster. In atemlosen Abständen klatschten die unsichtbaren Wassergüsse an die Häusermauern.
@@ -3394,7 +3400,7 @@ mit dem Geist Reskes, die nicht an einen Raum gebunden sind, die das Herz übera
 wird, überall und ewig. Erschüttert und angstvoll und keines Wortes mächtig, setzte ich mich endlich wieder in Bewegung.</p></div>
 
 <div type="chapter"><p>Fünftes Kapitel</p>
-<p><head>Zwiegespräche von Käuzchen und Liebenden</head></p>
+<p>Zwiegespräche von Käuzchen und Liebenden</p>
 <p><hi>D</hi>as Unwetter brach wieder los. Noch während wir vor dem Haus standen, fielen die ersten Tropfen. Ich dachte, sie würde untertreten wollen, aber sie stellte nicht das Verlangen.
 Was sie verlangte, das sollte sie immer haben, wenn es nicht meine Freiheit anging, hatte ich mir vorgenommen. Aber sonst<pb n="310"/>war ich entschlossen, es unwandelbar darauf ankommen zu
 lassen, ja, es war eine solche von Minute zu Minute wachsende Furcht in mir, daß ich bereit war, es selbst zum Äußersten zu treiben, denn sie trieb es auch zum Äußersten. Daß wir
@@ -3613,7 +3619,7 @@ im ersten Morgenlicht sah ich sie mit blühenden Wangen, aber ebenso zauberhaft 
 Aufregung fühlte ich ebenfalls. "Nur erst wieder in einer geheizten Stube sitzen!" dachte ich. "Und einen warmen Kaffee im Leib haben. Dann wird sich alles geben!"</p></div>
 
 <div type="chapter"><p>Sechstes Kapitel</p>
-<p><head>Schlote und Essen und ein brechendes Herz</head></p>
+<p>Schlote und Essen und ein brechendes Herz</p>
 <p><hi>M</hi>ein Bekenntnis ist zu Ende. Was soll ich noch sagen? Mit großer Mühe brachte ich sie in das Dorf. Sie klagte über ihre Füße, dann über ihren Kopf, und war so schwach,
 daß ich sie streckenweise beinahe tragen mußte. Alle hundert Schritte begehrte sie, auszuruhen. Wo sie anfänglich Gelegenheit sah, sich zu setzen, tat sie es; aber nachher bat sie mich,
 sie nicht mehr sitzen zu lassen, sonst könnte es passieren, daß sie nicht mehr hoch komme. Es fand sich nun, daß das Dorf noch eine gute Stunde landeinwärts lag, normal gegangen;
@@ -3665,7 +3671,7 @@ ein Fünkchen Leben darin zuckt. Aber auf einmal wurde sie still und schwer. Die
 Zug zu bremsen. Als wir in die Station einfuhren, lag sie mir wieder in tiefer Ohnmacht da.</p></div>
 
 <div type="chapter"><p>Schluß</p>
-<p><head>Freiheit?</head></p>
+<p>Freiheit?</p>
 <p><hi>S</hi>o kam es, daß ich Barbara ins Krankenhaus einlieferte, anstatt eine wenn auch gemietete Häuslichkeit mit ihr einzurichten. Selbst die Hochzeit ohne Standesamt und Priester
 lag nicht im Plan des Schicksals. Sie wurde in einen Saal voller Kranken links an der Wand in das Bett Nummer 17 eingereiht, auf der einen Seite eine alte Frau, die an Brustkrebs dahinsiechte, auf der anderen Seite ein achtzehnjähriges
 Mädchen mit Lungentuberkulose im letzten Stadium. Aber beide überlebten sie noch.</p>
