@@ -14,7 +14,8 @@
             </titleStmt>
             <extent>
                 <measure unit="pages">346</measure>
-                <measure unit="words">60972</measure> 
+                <!--                 2 volumes, v1=60972, v2=60599-->
+                <measure unit="words">121571</measure> 
             </extent>
             <publicationStmt>
                 <p><date>2020-05-18</date></p>
@@ -51,7 +52,7 @@
             </langUsage>
             <textDesc>
                 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-                <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
+                <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
                 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"></reprintCount>
                 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
             </textDesc>

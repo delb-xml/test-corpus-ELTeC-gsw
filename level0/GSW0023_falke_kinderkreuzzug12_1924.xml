@@ -14,7 +14,8 @@
             </titleStmt>
             <extent>
                 <measure unit="pages">435</measure>
-                <measure unit="words">111722</measure> 
+                <!--             2 volumes   111722, 122684-->
+                <measure unit="words">234406</measure> 
             </extent>
             <publicationStmt>
                 <p><date>2020-05-18</date></p>
