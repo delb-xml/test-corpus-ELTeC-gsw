@@ -20,7 +20,7 @@ If you use this corpus in your research or teaching, please follow good scholarl
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
-    v2.0.0, March 2023: This release includes 107 novels in level 0 encoding (46 manually encoded, 61 semi-automaticaly encoded)
+    v2.0.0, March 2023: This release includes 100 novels in level 0 encoding (46 manually encoded, 54 semi-automaticaly encoded)
     
 old release:
     
