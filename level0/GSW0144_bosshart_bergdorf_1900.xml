@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Das Bergdorf: ELTeC Ausgabe</title>
-        <author ref="https://de.wikipedia.org/wiki/Jakob_Bosshart">Bosshart, Jakob
+        <author ref="viaf:64113465 wikidata:Q117227">Bosshart, Jakob
           (1862-1924)</author>
         <respStmt>
           <resp>ELTeC conversion</resp>
@@ -55,7 +55,7 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
